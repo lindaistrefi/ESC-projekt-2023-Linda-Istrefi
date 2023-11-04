@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "sass:compile":"./node_modules/.bin/sass --no-source-map src/ mobile-first.scss desktop-middle.scss desktop-big.scss main.css" 
+    "sass:compile":"./node_modules/.bin/sass --no-source-map src/ mystyle.scss main.css" 
   },
   "author": "",
   "license": "ISC",
