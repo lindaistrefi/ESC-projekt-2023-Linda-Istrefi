@@ -1,4 +1,3 @@
-
 @media screen and (min-width: 900px){
     
 }
@@ -10,6 +9,8 @@
 
     }
 }
+
+
 /* hooooover desktop */
 .userExample__button:hover {
     border: 1px solid rgb(180, 75, 190);
@@ -339,4 +340,3 @@ a {
 .socialLinks a:last-child {
     padding-bottom: 3em;
 }
-
