@@ -1,0 +1,13 @@
+{
+  "name": "esc-projekt-2023-linda-istrefi",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "sass:compile":"./node_modules/.bin/sass --no-source-map src/ mystyle.scss main.css" 
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}
